@@ -37,8 +37,8 @@ It is an End‑to‑end customer churn analysis using Python, covering data clea
 
 ## Model Performance:
 - **Best Model:** Random Forest Classifier
-- **Accuracy:** ~81%
-- **ROC‑AUC:** ~0.84
+- **Accuracy:** ~79%
+- **ROC‑AUC:** ~0.83
 
 Logistic Regression achieved slightly higher AUC during cross‑validation, while Random Forest captured nonlinear feature interactions more effectively.
 
